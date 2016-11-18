@@ -38,6 +38,7 @@ namespace Microsoft.Exchange.Samples.EWS
         {
             logFileWriter.Flush();
             logFileWriter.Close();
+            //Features Branch 1.1 Chnage 
         }
     }
 }
